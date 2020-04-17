@@ -1,0 +1,21 @@
+import the scanner class.
+create scanner object and assign it to input var.
+prompt user for a number.
+print out the table
+use for loop to iterate from 1 to the number
+print out each iteration number and the square of the current number spaced out by some tabs.
+
+*************************Test case********************
+        Enter a number:
+        9
+        Number      Square
+        -------    -------
+        1			1
+        2			4
+        3			9
+        4			16
+        5			25
+        6			36
+        7			49
+        8			64
+        9			81
